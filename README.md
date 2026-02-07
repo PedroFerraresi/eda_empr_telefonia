@@ -6,6 +6,7 @@ Este é um projeto de EDA para aprender como fazer análise estatística.
 
 Os resultados obtidos são X, Y e Z
 
+![Total de Chamdas](/img/total_chamadas.png)
 
 ## Próximos passos
 
